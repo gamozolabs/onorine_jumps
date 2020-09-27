@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: Onorine Jumps
+## Author: Onorine
+## Version: 0.0.1
+## SavedVariables: PlayerPosition
+
+onorine_jumps.lua
+
